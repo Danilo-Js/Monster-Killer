@@ -10,10 +10,6 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Danilo-Js/Monster-Killer">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Danilo-Js/Monster-Killer">
-
-  <a href="https://www.codacy.com/gh/Danilo-Js/Monster-Killer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Danilo-Js/Monster-Killer&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://app.codacy.com/project/badge/Grade/8e3a9ce0dd0e460dbdc8bb60124052ad">
-  </a>
   
   <a href="https://img.shields.io/github/repo-size/Danilo-Js/Monster-Killer/commits/master">
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/Danilo-Js/Monster-Killer">
